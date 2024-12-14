@@ -3,6 +3,7 @@
 </p>
 <h3 align="center">Koolo</h3>
 
+<h3>Newest release: https://github.com/Botty-d2r/koolo22/releases/tag/v1.0.0</h3>
 ---
 
 Koolo is a small bot for Diablo II: Resurrected (Expension). Koolo project was built for informational and educational purposes
