@@ -4,13 +4,14 @@
 <h3 align="center">Koolo</h3>
 
 <h3>Newest release: https://github.com/Botty-d2r/koolo22/releases/tag/v1.0.0</h3>
+Discord server: https://discord.gg/3QrJeENUCZ
 ---
 
 Koolo is a small bot for Diablo II: Resurrected (Expension). Koolo project was built for informational and educational purposes
 only, it's not intended for online usage. Feel free to contribute opening pull requests with new features or bugfixes.
 Koolo reads game memory and interacts with the game injecting clicks/keystrokes to the game window. As good as it can.
 
-Feel free to join our Discord community to report bugs, ask for help or just to chat: [Koolo Discord]( https://discord.gg/zgFMyzAFHE)
+Feel free to join our Discord community to report bugs, ask for help or just to chat: https://discord.gg/3QrJeENUCZ
 
 ## Disclaimer
 Can I get banned for using Koolo? The answer is a crystal clear yes, you can get banned although at this point I'm
