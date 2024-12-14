@@ -33,7 +33,7 @@ func sendMessage(text string) {
 	encodedText := url.QueryEscape(text)
 
 	// Prepare the URL with the encoded message
-	url := fmt.Sprintf("https://api.telegram.org/bot%s/sendMessage?chat_id=%s&text=%s", "7960220077:AAFr0i84HmLh209XH5WC3Ctwf7NTaiVaIlc", "984469779", encodedText)
+	url := fmt.Sprintf("https://api.telegram.org/bot%s/sendMessage?chat_id=%s&text=%s", ":", "", encodedText)
 
 	// Send the GET request to the Telegram Bot API
 	_, err := http.Get(url)
